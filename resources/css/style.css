@@ -1,10 +1,13 @@
+body {
+  font-family: Arial, Helvetica;
+  text-align: center;
+}
+
 #title {
   background-image: url("../images/the-flatiron-building.png");
-  font-family: helvetica;
-  font-size: 30px;
+    font-size: 30px;
   font-weight: bold;
-  text-align: center;
-  color: white;
+    color: white;
 }
 
 #list {
@@ -12,3 +15,25 @@
     font-size: 18px;
     color: white;
   }
+
+  .subjects {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  }
+
+  .item {
+    font-size: 23px;
+    font-weight: bold;
+  }
+
+  .title2 {
+    background-image: url("../images/the-flatiron-building.png");
+    font-size: 23px;
+    font-weight: bold;
+    color: white;
+  }
+
+.paragraph {
+  font-size: 14px;
+}
