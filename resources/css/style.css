@@ -38,9 +38,14 @@ body {
   font-size: 14px;
 }
 
-#title3 {
+.footer {
   font-size: 11px;
   background-color: dimgray;
   color: white;
   text-align: left;
+}
+
+.button {
+  font-size: 18px;
+  color: white;
 }
