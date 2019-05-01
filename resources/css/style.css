@@ -37,3 +37,10 @@ body {
 .paragraph {
   font-size: 14px;
 }
+
+#title3 {
+  font-size: 11px;
+  background-color: dimgray;
+  color: white;
+  text-align: left;
+}
